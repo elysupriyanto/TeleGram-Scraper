@@ -86,13 +86,13 @@ for group in groups:
     print(gr+'['+cy+str(i)+gr+']'+cy+' - '+group.title)
     i+=1
 
-print(gr+'[+] Choose a group to add members')
+print(gr+'[+] https://t.me/TemanMal4m')
 g_index = input(gr+"[+] Enter a Number : "+re)
 target_group=groups[int(g_index)]
  
 target_group_entity = InputPeerChannel(target_group.id,target_group.access_hash)
  
-print(gr+"[1] add member by user ID\n[2] add member by username ")
+print(gr+"[1] https://t.me/pacar_teman_jodoh_remaja\1358697448[2] add member by username ")
 mode = int(input(gr+"Input : "+re)) 
 n = 0
  
